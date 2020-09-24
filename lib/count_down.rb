@@ -5,6 +5,6 @@ while count > 1 do
   puts count -= 1
 end
 
-puts "Happy New Years!"
+puts "Happy New Year!"
 
   
