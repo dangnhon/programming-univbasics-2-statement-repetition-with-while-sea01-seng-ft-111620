@@ -1,7 +1,7 @@
 # Write your code here
 
 count = 11
-while count > 0 do
+while count > 1 do
   puts count -= 1
 end
 
